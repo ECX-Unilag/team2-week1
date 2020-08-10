@@ -66,7 +66,7 @@ https://appsenjoy.com/download/97038ef41bba4b0226b6d47e3c128776.html
 
 # Website Summary: 
 
-This a website for COVID-19. It shows the symptoms with illustrations. If you get infected there's a way to seek help by clicking on a button. There's also an option to subscribe to get more information about the virus.
+This a website for COVID-19. The website explains what COVID_19 is, when and where it originated. It shows the symptoms with illustrations. If you get infected there's a way to seek help by clicking on a button. There's also an option to subscribe to get more information about the virus. The website also shows the infected rate in different countries. 
 
 
 
